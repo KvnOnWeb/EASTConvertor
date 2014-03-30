@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE PREFERENCES PUBLIC "-//W3C//DTD XHTML//EN" "http://www.w3.org/TR/2001/REC-xhtml11-20010531">
+<PREFERENCES xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0">
+  <AFFICHAGE>
+    <POLICE_TEXTE font="Comic Sans MS"/>
+  </AFFICHAGE>
+</PREFERENCES><LOGO_GAUCHE xmlns:dom="http://www.w3.org/2001/xml-events" xmlns:draw="urn:oasis:names:tc:opendocument:xmlns:drawing:1.0" xmlns:fo="urn:oasis:names:tc:opendocument:xmlns:xsl-fo-compatible:1.0" xmlns:presentation="urn:oasis:names:tc:opendocument:xmlns:presentation:1.0" xmlns:script="urn:oasis:names:tc:opendocument:xmlns:script:1.0" xmlns:smil="urn:oasis:names:tc:opendocument:xmlns:smil-compatible:1.0" xmlns:style="urn:oasis:names:tc:opendocument:xmlns:style:1.0" xmlns:svg="urn:oasis:names:tc:opendocument:xmlns:svg-compatible:1.0" xmlns:table="urn:oasis:names:tc:opendocument:xmlns:table:1.0" xmlns:text="urn:oasis:names:tc:opendocument:xmlns:text:1.0" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:office="urn:oasis:names:tc:opendocument:xmlns:office:1.0" fichier="media/image1.png" hauteur_SVG="100" largeur_SVG="100"/><PIEDPAGE_DROIT>17/09/2013</PIEDPAGE_DROIT><PIEDPAGE_GAUCHE>Soutenance : Rapport d'activité 2012-2013</PIEDPAGE_GAUCHE><PAGE_TITRE>
+  <TITRE>Soutenance : Rapport d&#8217;activité </TITRE>
+  <SOUS_TITRE>Entreprise d&#8217;accueil : SanofiMaster 1 MIAGEUniversité d&#8217;Evry Val d&#8217;Essonne</SOUS_TITRE>
+</PAGE_TITRE><SECTION>
+  <TITRE>De la création des laboratoiresMidyen 1718 au groupe européen Sanofi en 2013</TITRE>
+</SECTION><SECTION>
+  <EL>Présent dans plus de 100 pays</EL>
+  <EL>Plus de 110 000 collaborateurs</EL>
+  <EL>Chiffre d&#8217;affaires net 2012 ; 35 milliards d&#8217;euros</EL>
+  <EL>Diversité des activités</EL>
+  <EL>Pharmacie</EL>
+  <EL>Vaccins</EL>
+  <EL>Santé animale</EL>
+  <EL>Recherche et développement&#8230;</EL>
+  <EL/>
+  <TITRE>Sanofi en quelques chiffres</TITRE>
+</SECTION><SECTION>
+  <TITRE>La Direction des Systèmes d&#8217;Information Sanofi</TITRE>
+</SECTION><SECTION>
+  <TITRE>L&#8217;entité Centres de Services</TITRE>
+</SECTION><SECTION>
+  <TITRE>La place de notre équipe au sein de la divisionFactoryManagement</TITRE>
+</SECTION><SECTION>
+  <EL>Représentation de l&#8217;entreprise</EL>
+  <EL>Modélisation de son fonctionnement</EL>
+  <EL>De ses processus</EL>
+  <EL>De ses applications</EL>
+  <EL>De ses interfaces</EL>
+  <EL/>
+  <EL>Outil de référence de Sanofi pour la cartographie</EL>
+  <EL>La suite logicielle MEGA</EL>
+  <TITRE>Enterprise Business Modeling Service</TITRE>
+</SECTION><SECTION>
+  <EL>Formation aux deux modules principaux</EL>
+  <EL>BusinessProcess</EL>
+  <EL>Architecture</EL>
+  <EL/>
+  <EL>Démarche de BusinessProcessManagement</EL>
+  <EL>Représentation des processus de l&#8217;entreprise et leurs enchaînements</EL>
+  <TITRE>Formations à l&#8217;outil et aux méthodes</TITRE>
+</SECTION><SECTION>
+  <TITRE>Représentation des infrastructures qui hébergent notre référentiel</TITRE>
+</SECTION><SECTION>
+  <EL>Quatre niveaux de représentation proposés par MEGA</EL>
+  <EL/>
+  <TITRE>Accompagnement desactivités demodélisation</TITRE>
+</SECTION><SECTION>
+  <EL>Veiller à la pérennité et au bon usage du référentiel</EL>
+  <EL/>
+  <EL>Achat de licences</EL>
+  <EL>Relations avec l&#8217;éditeur et nos clients internes</EL>
+  <EL/>
+  <EL>Administration des données</EL>
+  <EL>Contrôle de cohérence</EL>
+  <EL>Ménage sur les profils et données erronés</EL>
+  <TITRE>Administration du référentiel</TITRE>
+</SECTION><SECTION>
+  <EL>Assistance fonctionnelle et technique</EL>
+  <EL>Unitaire : réception d&#8217;un email ou d&#8217;un appel téléphonique</EL>
+  <EL>Rédaction des Fiches FAQ à destination du Service Desk</EL>
+  <EL/>
+  <EL>Rapports et sites Web</EL>
+  <EL>Création et génération de documents contenant des informations contenus dans le référentiel</EL>
+  <EL>Diagrammes, attributs&#8230;</EL>
+  <TITRE>Mes autres missions récurrentes</TITRE>
+</SECTION><SECTION>
+  <EL>Suivi des nouveaux modules de l&#8217;éditeur</EL>
+  <EL>Participation aux formations</EL>
+  <EL>BPMN, BusinessStrategy&#8230;</EL>
+  <EL/>
+  <EL>Rencontre avec de potentiels futurs clients internes</EL>
+  <EL>Service est relativement jeune dans sa forme</EL>
+  <EL>A travers la rédaction du catalogue de service, recherche de nouveaux clients.</EL>
+  <TITRE>Veille technologique et recherche de nouveaux clients internes</TITRE>
+</SECTION><SECTION>
+  <EL>Initiative de typePoCau sein duCoS</EL>
+  <EL>Représentation d&#8217;un échantillon de services</EL>
+  <EL>Trois objectifs</EL>
+  <EL>Expliquer la manière dont nos équipes sont organisées</EL>
+  <EL>Communiquer une vision partagée</EL>
+  <EL>Renforcer les compétences dans les activités de cartographie</EL>
+  <TITRE>Proof ofconcept : Représentation des processus en BPMN</TITRE>
+</SECTION><SECTION>
+  <EL>Sélection de l&#8217;échantillon à représenter</EL>
+  <EL/>
+  <EL/>
+  <EL/>
+  <EL/>
+  <EL/>
+  <EL/>
+  <EL>Interview&#61672;Modélisation &#61672;Feedback &#61672;Modélisation</EL>
+  <TITRE>Déroulement du projet</TITRE>
+</SECTION><SECTION>
+  <EL>Publication Web à venir</EL>
+  <EL>Harmonie avec le catalogue de services</EL>
+  <TITRE>Résultat final</TITRE>
+</SECTION><SECTION>
+  <EL>Nombreuses formations et découverte d&#8217;un environnement logiciel et d&#8217;un ensemble de bonnes pratiques de modélisation</EL>
+  <EL/>
+  <EL>Expérience humaine et professionnelle enrichissante</EL>
+  <EL/>
+  <EL>Réelle confiance accordée</EL>
+  <EL>Réorganisation à venir</EL>
+  <EL>L&#8217;occasion de voir comment l&#8217;approche de la cartographie va évoluer</EL>
+  <TITRE>Conclusion</TITRE>
+</SECTION><SECTION>
+  <TITRE>Questions ?</TITRE>
+</SECTION>
