@@ -14,13 +14,14 @@
  />
  		
 	<xsl:template match="/">
+		<xsl:apply-templates/>
+
 		<PREFERENCES>
 			<AFFICHAGE>
 				<POLICE_TEXTE font="Comic Sans MS"/>
 			</AFFICHAGE>
 		</PREFERENCES>
 		<LOGO_GAUCHE fichier="media/image1.png" hauteur_SVG="100" largeur_SVG="100"/>
-		<xsl:apply-templates/>
 	</xsl:template>
 
 	<!-- On se place au niveau de la présentation -->
@@ -71,7 +72,9 @@
 							<TITRE>	
 								<xsl:value-of select="." />
 							</TITRE>
-						</xsl:if>	
+						</xsl:if>
+					</xsl:for-each>
+					<xsl:for-each select="draw:frame">	
 						<xsl:if test="@presentation:class= 'outline'">
 							<xsl:for-each select="draw:text-box/text:list">
 								<EL>
