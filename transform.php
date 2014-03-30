@@ -2,7 +2,7 @@
 
 	$xslDoc = new DOMDocument();
 	//Import du Fichier de transformation 
-	$xslDoc->load( 'moulinette3.xsl' );
+	$xslDoc->load( 'convertor.xsl' );
 
 	$xmlDoc = new DOMDocument();
 	//Import du Fichier à transormer 
